@@ -425,10 +425,6 @@ void CrearFiguras()
 		0.36f, 0.46f, 0.0f, 0.9843f, 0.6392f, 0.549f,
 		0.4f, 0.41, 0.0f,  0.9843f, 0.6392f, 0.549f,
 		*/
-
-		// parte pelona del cabello 
-
-
 	};
 
 	MeshColor* sukunaColor = new MeshColor();
